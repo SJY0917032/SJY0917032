@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=ShinJuYong&fontSize=70&animation=twinkling)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJY0917032&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">🇰🇷</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
