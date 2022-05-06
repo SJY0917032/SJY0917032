@@ -2,10 +2,6 @@
 
 <div align="center">
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJY0917032&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
 <a href="https://opgc.me/#/users/sjy0917032" target="_blank"><img src="https://api.opgc.me/githubs/users/sjy0917032/tag/?theme=basic" /></a>
 </p>
