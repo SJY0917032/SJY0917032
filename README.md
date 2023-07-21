@@ -2,10 +2,6 @@
 
 <div align="center">
 
-<p align="center">
-<a href="https://opgc.me/#/users/sjy0917032" target="_blank"><img src="https://api.opgc.me/githubs/users/sjy0917032/tag/?theme=basic" /></a>
-</p>
-
 <br>
 
 <p align="center">
